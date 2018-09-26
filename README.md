@@ -16,3 +16,5 @@
 [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)
 
 [Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)
+
+[Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
